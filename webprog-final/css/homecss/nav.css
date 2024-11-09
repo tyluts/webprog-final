@@ -1,0 +1,33 @@
+.nav-width {
+  width: 68%;
+}
+.navbar-nav .nav-link:hover {
+  background-color: #343a40; /* Darker gray background */
+  color: #ffffff; /* White text color */
+  border-radius: 10px; /* Optional: rounds the edges */
+}
+.nav-link:focus {
+  background-color: #343a40;
+  color: #ffffff;
+  border-radius: 10px;
+}
+
+.login-link {
+  background-color: #610909; /* Darker gray background */
+  color: #ffffff; /* White text color */
+  border-radius: 10px; /* Optional: rounds the edges */
+}
+.login-nav .login-link:hover {
+  background-color: #920d0d; /* Darker gray background */
+  color: #ffffff; /* White text color */
+  border-radius: 10px; /* Optional: rounds the edges */
+}
+
+.login-link:focus {
+  background-color: #920d0d;
+  color: #ffffff;
+  border-radius: 10px;
+}
+.border-radius {
+  border-radius: 16px;
+}
